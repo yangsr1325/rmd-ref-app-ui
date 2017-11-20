@@ -13,7 +13,7 @@ var config = {
         clientId: '2',
         clientSecret: 'FALJkP3YCRJCu6D5F5EPE3t5881ZurdBXaCfq6C3',
         serverUrl: 'http://test132501-arj3glk9.neuseer.cn/',
-        redirect_uri: 'http://test-1325-1.neuseer.cn/callback',
+        redirect_uri: 'http://test-1325-01.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
