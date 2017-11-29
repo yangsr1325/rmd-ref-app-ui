@@ -11,9 +11,9 @@ var config = {
     uaa: {
 
         clientId: '2',
-        clientSecret: 'CB076z3wuqGm9nsTSbCIJ1q7WKOcsyQveQyUGLqL',
-        serverUrl: 'http://yang001-arj3glk9.neuseer.cn/',
-        redirect_uri: 'http://whrmdui01.neuseer.cn/callback',
+        clientSecret: 'tDY8iHEWRy6mBOLUMw521XXde4Dwz5zJ6XI6Dq3b',
+        serverUrl: 'http://ysr-arj3glk9.neuseer.cn/',
+        redirect_uri: 'http://ysr001.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
